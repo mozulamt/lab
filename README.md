@@ -1,2 +1,2 @@
 # lab
-A code sandbox
+A code sandbox for code snippets.
